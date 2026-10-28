@@ -1,6 +1,6 @@
 # Birthday Invitation
 
-**English**
+🌐 **English** · [Dansk](Home-da) · [Bahasa Melayu](Home-ms)
 
 A retro 90s birthday invitation page, built with plain HTML and CSS. Day 42 of
 the Udemy "100 Days of Code" web development course.

@@ -23,4 +23,7 @@ No build step. Open `src/index.html` in a browser.
 | `src/index.html` | The page: headings, image, list and anchor tag |
 | `src/style.css` | The retro 90s look |
 
-More in the [wiki](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/wiki).
+More in the wiki, in three languages:
+[English](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/wiki/Home) ·
+[Dansk](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/wiki/Home-da) ·
+[Bahasa Melayu](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/wiki/Home-ms).
