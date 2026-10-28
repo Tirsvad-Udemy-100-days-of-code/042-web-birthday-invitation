@@ -1,0 +1,43 @@
+:root {
+  --bg: #ffeb3b;
+  --ink: #3a0ca3;
+  --accent: #f72585;
+  --link: #0000ee;
+}
+
+body {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  text-align: center;
+}
+
+h1 {
+  color: var(--accent);
+  font-size: 3rem;
+  text-shadow: 3px 3px 0 var(--ink);
+}
+
+h3 {
+  margin-top: 2rem;
+  text-decoration: underline wavy var(--accent);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 6px ridge var(--accent);
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+a {
+  color: var(--link);
+  font-weight: bold;
+}
