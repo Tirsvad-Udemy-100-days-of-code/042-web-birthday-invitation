@@ -5,7 +5,7 @@
 Halaman jemputan hari lahir bergaya retro 90-an, dibina dengan HTML dan CSS
 biasa. Hari ke-42 kursus pembangunan web "100 Days of Code" di Udemy.
 
-![Halaman jemputan hari lahir](images/birthday-invitation.png)
+![Halaman jemputan hari lahir](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/raw/branch/main/docs/wiki/images/birthday-invitation.png)
 
 ## Apa yang digunakan halaman ini
 

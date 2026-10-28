@@ -5,7 +5,7 @@
 En fødselsdagsinvitation i retro 90'er-stil, lavet med almindelig HTML og CSS.
 Dag 42 af Udemy-kurset "100 Days of Code" i webudvikling.
 
-![Fødselsdagsinvitationen](images/birthday-invitation.png)
+![Fødselsdagsinvitationen](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/raw/branch/main/docs/wiki/images/birthday-invitation.png)
 
 ## Hvad siden bruger
 
