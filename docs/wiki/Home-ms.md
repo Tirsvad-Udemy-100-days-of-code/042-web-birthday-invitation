@@ -1,11 +1,11 @@
-# Jemputan Hari Lahir
+[English](Home) · [Dansk](Home-da) · **Bahasa Melayu**
 
-🌐 [English](Home) · [Dansk](Home-da) · **Bahasa Melayu**
+# Jemputan Hari Lahir
 
 Halaman jemputan hari lahir bergaya retro 90-an, dibina dengan HTML dan CSS
 biasa. Hari ke-42 kursus pembangunan web "100 Days of Code" di Udemy.
 
-![Halaman jemputan hari lahir](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/raw/branch/main/docs/wiki/images/birthday-invitation.png)
+![Halaman jemputan hari lahir](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/raw/branch/main/docs/images/birthday-invitation.png)
 
 ## Apa yang digunakan halaman ini
 
@@ -32,3 +32,8 @@ Tiada langkah binaan. Buka `src/index.html` dalam pelayar.
 Gaya berada dalam `src/style.css`, bukan dalam HTML. Empat sifat tersuai di
 bahagian atas (`--bg`, `--ink`, `--accent`, `--link`) menetapkan warna, jadi
 rupa baharu hanya perlu menukar empat nilai.
+
+## Seterusnya
+
+- [Bermula](Getting-Started-ms)
+- [Dokumen Projek](Project-Documents-ms)

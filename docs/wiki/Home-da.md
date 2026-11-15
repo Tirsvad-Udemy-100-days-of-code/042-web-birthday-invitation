@@ -1,11 +1,11 @@
-# Fødselsdagsinvitation
+[English](Home) · **Dansk** · [Bahasa Melayu](Home-ms)
 
-🌐 [English](Home) · **Dansk** · [Bahasa Melayu](Home-ms)
+# Fødselsdagsinvitation
 
 En fødselsdagsinvitation i retro 90'er-stil, lavet med almindelig HTML og CSS.
 Dag 42 af Udemy-kurset "100 Days of Code" i webudvikling.
 
-![Fødselsdagsinvitationen](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/raw/branch/main/docs/wiki/images/birthday-invitation.png)
+![Fødselsdagsinvitationen](https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/raw/branch/main/docs/images/birthday-invitation.png)
 
 ## Hvad siden bruger
 
@@ -32,3 +32,8 @@ Intet build-trin. Åbn `src/index.html` i en browser.
 Stilene ligger i `src/style.css`, ikke i HTML'en. Fire brugerdefinerede
 egenskaber øverst (`--bg`, `--ink`, `--accent`, `--link`) sætter farverne, så et
 nyt udseende er en ændring af fire værdier.
+
+## Videre
+
+- [Kom godt i gang](Getting-Started-da)
+- [Projektdokumenter](Project-Documents-da)

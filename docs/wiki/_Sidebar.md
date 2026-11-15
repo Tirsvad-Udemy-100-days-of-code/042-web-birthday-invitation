@@ -1,9 +1,11 @@
-## Wiki
+**Web Birthday Invitation wiki**
 
 - [Home](Home)
+- [Getting Started](Getting-Started)
+- [Project Documents](Project-Documents)
 
-🌐 Languages
+**Languages**
 
-- [English](Home)
-- [Dansk](Home-da)
-- [Bahasa Melayu](Home-ms)
+- English: [Home](Home)
+- Dansk: [Hjem](Home-da)
+- Bahasa Melayu: [Utama](Home-ms)
