@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | pending |
+| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | [1f0ad2b] |
 
 ---
 
@@ -79,3 +79,4 @@ Accepted on the `Go` verdict of the review record of this document, by the AI as
 
 [BC-001]: ./business-case.md
 [MIL-001]: ./milestones/mil-001-baseline.md
+[1f0ad2b]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/commit/1f0ad2b30ad3085a8a48cccde83181f3587ff0e7

@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial review record; verdict Go (autonomous, not independent) | pending |
+| 2026-11-16 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial review record; verdict Go (autonomous, not independent) | [1f0ad2b] |
 
 ---
 
@@ -72,3 +72,4 @@ Go — every Mandatory criterion of QC-PP-001 and QC-LANG-001 passes; the docume
 [PP-001]: ../../project-plan.md
 [QC-PP-001]: ../../../framework/qc/artifacts/qc-project-plan.md
 [QC-LANG-001]: ../../../framework/qc/artifacts/qc-language-domain.md
+[1f0ad2b]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/042-web-birthday-invitation/commit/1f0ad2b30ad3085a8a48cccde83181f3587ff0e7
